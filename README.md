@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hey! As you were here, I'm currently creating my own README.md, so stay tuned!
 <!--
 **MinatoIsuki/MinatoIsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
